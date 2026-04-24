@@ -1,4 +1,4 @@
-# 思想道德与法治 校内赛
+# 机甲大师 校内赛
 
 ## 技术报告
 [语雀报告]https://www.yuque.com/yuqueyonghu0v3vd9/yq33pp/egm8l67b2pydo5he?singleDoc#
@@ -72,8 +72,6 @@ Gazebo Ignition Fortress
 OpenCV
 C++17 
 
-## 在docker上运行
-[vision_node要替换的相关行](/src/teamx_challenge/src/vision_node.cpp#L705-L708)然后运行docker-compose111.yml即可
 string template_path = "/home/va/templates/";
   for (int i = 1; i <= 5; i++)
   {
